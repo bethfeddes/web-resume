@@ -3,6 +3,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
     margin-left: 0.6in;
     margin-right: 0.6in;
+    font-size: 10pt;
 }
 
 h1 {
@@ -111,6 +112,10 @@ h2 + hr {
   margin-top: 2px;
 }
 
+.exp-title, .exp-date, .exp-location {
+    font-size: 10pt;
+}
+
 @media print {
     @page {
         margin: 0.5in;
@@ -120,7 +125,7 @@ h2 + hr {
         margin: 0;
     }
 
-    h2, .edu-entry, .exp-entry, proj-header, ul {
+    h2, .edu-entry, .exp-entry, .proj-header, ul {
         break-inside: avoid;
     }
 }
