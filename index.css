@@ -128,8 +128,15 @@ h2 + hr {
     h2, .edu-entry, .exp-entry, .proj-header, ul {
         break-inside: avoid;
     }
+
+    .no-print {
+    display: none;
+    }
 }
 
-.no-print {
-    display: none;
+a[href='resume.pdf'] {
+    display: block;
+    text-align: center;
+    margin: 0.3in 0 0 0;
+    color: black;
 }
