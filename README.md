@@ -3,9 +3,9 @@
 A personal resume built with HTML and CSS, formatted to match Lewis University's standard resume template, and published as a live website via Azure Static Web Apps.  
 
 Author: Bethany Feddes  
-Project: Web Resume
-Credits: [Lewis University resume template](https://pithub.blob.core.windows.net/nvm4zqwm/f7h4j48d-resume-format.pdf), Claude AI for debugging, explaining CSS/HTML concepts, and generating the ReadMe.
- 
+Project: Web Resume  
+Credits: [Lewis University resume template](https://pithub.blob.core.windows.net/nvm4zqwm/f7h4j48d-resume-format.pdf), Claude AI for debugging, explaining CSS/HTML concepts, and generating the ReadMe.  
+  
 ## Live Site
  
 [Web Resume Link](https://gray-mud-08cc83110.1.azurestaticapps.net/)
